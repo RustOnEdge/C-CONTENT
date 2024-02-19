@@ -1,0 +1,2 @@
+﻿fucking with memory leaks.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl TwoArray::~TwoArray(void)" (??1TwoArray@@UEAA@XZ) referenced in function "public: virtual void * __cdecl TwoArray::`scalar deleting destructor'(unsigned int)" (??_GTwoArray@@UEAAPEAXI@Z)
+C:\CPP FILES\fucking with memory leaks\x64\Debug\fucking with memory leaks.exe : fatal error LNK1120: 1 unresolved externals

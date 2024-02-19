@@ -1,0 +1,3 @@
+﻿  recursion intermediate.cpp
+C:\CPP FILES\recursion intermediate\recursion intermediate\recursion intermediate.cpp(54): warning C4715: 'lastIndex2': not all control paths return a value
+  recursion intermediate.vcxproj -> C:\CPP FILES\recursion intermediate\x64\Debug\recursion intermediate.exe
